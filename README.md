@@ -1,4 +1,14 @@
-### Hi there 👋
+### 👋 🌎 Hello, world!
+<!--
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> **Hello world!**
+-->
+
+
+*"Only half of programming is coding. The other 90% is debugging"*<br/>
+&nbsp; &nbsp; &nbsp; Anonymous
+
+*"There are only 10 types of people in this world: those who understand binary, and those who don't"*<br/>
+&nbsp; &nbsp; &nbsp; Anonymous
 
 <!--
 **Alessandro1918/Alessandro1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
