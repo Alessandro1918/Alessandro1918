@@ -3,20 +3,22 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> **Hello world!**
 -->
 
-
 *"Only half of programming is coding. The other 90% is debugging"*<br/>
 &nbsp; &nbsp; &nbsp; Anonymous
 
 *"There are only 10 types of people in this world: those who understand binary, and those who don't"*<br/>
 &nbsp; &nbsp; &nbsp; Ian Stewart
 
+<!-- Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler -->
 
-### Check out my other projects!
+<!-- If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe -->
+
+### Confira meus outros projetos!
 
 <table>
   <!-- 
     .
-    ROW 1
+    ROW 1:
     .
   -->
   <tr align="center">
@@ -51,7 +53,7 @@
   </tr>
   <!-- 
     .
-    ROW 2
+    ROW 2:
     .
   -->
   <tr align="center">
@@ -74,6 +76,45 @@
       <br/> Um controlador de hábitos com visualização do progresso dia-a-dia
     </td>
     <td>
+      <a href="https://github.com/Alessandro1918/video-chat-front">
+        <img alt="videochat" title="videochat" src="assets/videochat.jpg" width="500" />
+      </a> 
+      <a href="https://github.com/Alessandro1918/video-chat-front">
+        Videochat
+      </a>
+      <br/> Uma sala de videochat autônoma, sem bibliotecas de terceiros!
+    </td>
+  </tr>
+  <!-- 
+    .
+    ROW 3:
+    .
+  -->
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/google-maps-api">
+        <img alt="google-maps" title="google-maps" src="assets/maps.jpg" width="500"/>
+      </a> 
+      <a href="https://github.com/Alessandro1918/google-maps-api">
+        Google Maps API
+      </a>
+      <br/> Visualize dados geográficos em gráficos de mapas, encontre relações de modo mais fácil, e tenha insights melhores! 
+    </td> 
+    <td>
+      <a href="https://github.com/Alessandro1918/mobile-push-notifications">
+        <img 
+          alt="mobile-push-notifications" 
+          title="mobile-push-notifications" 
+          src="assets/mobile-push-notifications.jpg" 
+          width="500"
+        />
+      </a> 
+      <a href="https://github.com/Alessandro1918/mobile-push-notifications">
+        Mobile Push Notifications
+      </a>
+      <br/> Um projeto minimalista mostrando o funcionamento de envio de notificações para aplicativos de celular usando a plataforma Expo
+    </td>
+    <td>
       <a href="https://github.com/Alessandro1918/blogpostAPI">
         <img alt="blogpostAPI" title="blogpostAPI" src="assets/blogpostAPI.jpeg" width="500" />
       </a> 
@@ -85,7 +126,7 @@
   </tr>
   <!-- 
     .
-    ROW 3
+    ROW 4:
     .
   -->
   <tr align="center">
@@ -119,7 +160,7 @@
   </tr>
   <!-- 
     .
-    ROW 4
+    ROW 5:
     .
   -->
   <tr align="center">
@@ -153,7 +194,7 @@
   </tr>
   <!-- 
     .
-    ROW 5
+    ROW 6:
     .
   -->
   <tr align="center">
@@ -172,8 +213,6 @@
     </td>
   </tr>
 </table>
-
-
 
 <!--
 **Alessandro1918/Alessandro1918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
