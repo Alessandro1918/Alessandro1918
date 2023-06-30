@@ -22,28 +22,40 @@
     .
   -->
   <tr align="center">
-    <td>
+    <td width="33%">
       <a href="https://github.com/Alessandro1918/cnv_neural_network_pokemon">
-        <img alt="cnv_pokemon" title="cnv_pokemon" src="assets/cnv_pokemon.png" width="300" />
+        <img 
+          alt="cnv_pokemon" 
+          title="cnv_pokemon" 
+          src="assets/cnv_pokemon.png"
+        />
       </a>
       <a href="https://github.com/Alessandro1918/cnv_neural_network_pokemon">
-        cnv_neural_network_pokemon
+        CNV Neural Net Pokemon
       </a>
-      <br/> A Neural Network used <br/>for Image Classification and <br/>Computer Vision. How can we balance 
-      <br/>all the technical terms, specifications and <br/>architectural decisions to make this problem <br/>more interesting? With Pokemon!
+      <br/> A Neural Network used for Image Classification and Computer Vision. How can we balance all the technical terms, specifications and architectural decisions to make this problem more interesting? With Pokemon!
     </td>
-    <td>
+    <td width="33%">
       <a href="https://github.com/Alessandro1918/aleFM">
-        <img alt="aleFM" title="aleFM" src="assets/aleFM.jpg" width="500"/>
+        <img 
+          alt="aleFM" 
+          title="aleFM" 
+          src="assets/aleFM.jpg"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/aleFM">
         Ale FM
       </a>
       <br/> Uma rádio web tocando minhas músicas preferidas, 24h por dia!
     </td>
-    <td>
+    <td width="33%">
       <a href="https://github.com/Alessandro1918/swagger-api">
-        <img alt="swaggerAPI" title="swaggerAPI" src="assets/swagger.png" width="500"/>
+        <img 
+          alt="swaggerAPI" 
+          title="swaggerAPI" 
+          src="assets/swagger.png" 
+          width="80%"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/swagger-api">
         Swagger API
@@ -59,7 +71,12 @@
   <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/pokedex-ar">
-        <img alt="pokedex AR" title="pokedex AR" src="assets/pokedexAr.png" width="150"/>
+        <img 
+          alt="pokedex AR" 
+          title="pokedex AR" 
+          src="assets/pokedexAr.png" 
+          width="65%"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/pokedex-ar">
         <br/> Pokedex AR
@@ -68,7 +85,11 @@
     </td>   
     <td>
       <a href="https://github.com/Alessandro1918/Setup-NLW-08">
-        <img alt="setup-nlw" title="setup-nlw" src="assets/nlw-setup-mobile.png" width="500"/>
+        <img 
+          alt="setup-nlw" 
+          title="setup-nlw" 
+          src="assets/nlw-setup-mobile.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/Setup-NLW-08">
         Setup-NLW-08
@@ -77,7 +98,11 @@
     </td>
     <td>
       <a href="https://github.com/Alessandro1918/video-chat-front">
-        <img alt="videochat" title="videochat" src="assets/videochat.jpg" width="500" />
+        <img 
+          alt="videochat" 
+          title="videochat" 
+          src="assets/videochat.jpg"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/video-chat-front">
         Videochat
@@ -93,7 +118,11 @@
   <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/google-maps-api">
-        <img alt="google-maps" title="google-maps" src="assets/maps.jpg" width="500"/>
+        <img 
+          alt="google-maps" 
+          title="google-maps" 
+          src="assets/maps.jpg"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/google-maps-api">
         Google Maps API
@@ -106,7 +135,7 @@
           alt="mobile-push-notifications" 
           title="mobile-push-notifications" 
           src="assets/mobile-push-notifications.jpg" 
-          width="500"
+          width="85%"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/mobile-push-notifications">
@@ -116,7 +145,11 @@
     </td>
     <td>
       <a href="https://github.com/Alessandro1918/blogpostAPI">
-        <img alt="blogpostAPI" title="blogpostAPI" src="assets/blogpostAPI.jpeg" width="500" />
+        <img 
+          alt="blogpostAPI" 
+          title="blogpostAPI" 
+          src="assets/blogpostAPI.jpeg"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/blogpostAPI">
         blogpostAPI
@@ -132,7 +165,11 @@
   <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
-        <img alt="chat" title="Chat-NLW-05" src="assets/chat.png" width="500"/>
+        <img 
+          alt="chat" 
+          title="Chat-NLW-05" 
+          src="assets/chat.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
         Chat-NLW-05
@@ -141,7 +178,11 @@
     </td>   
     <td>
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
-        <img alt="move.it" title="move.it" src="assets/move_it.png" width="500" />
+        <img 
+          alt="move.it" 
+          title="move.it" 
+          src="assets/move_it.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
         Move.it-NLW-04
@@ -150,7 +191,11 @@
     </td>
     <td>
       <a href="https://github.com/Alessandro1918/Happy-NLW-03">
-        <img alt="happy" title="happy" src="assets/happy.png" width="500" />
+        <img 
+          alt="happy" 
+          title="happy" 
+          src="assets/happy.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/Happy-NLW-03">
         Happy-NLW-03
@@ -166,7 +211,7 @@
   <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/rubikSolver">
-        <img alt="rubikSolver" title="rubikSolver" src="assets/rubikSolver.png" width="250" />
+        <img alt="rubikSolver" title="rubikSolver" src="assets/rubikSolver.png"/>
       </a> 
       <a href="https://github.com/Alessandro1918/rubikSolver">
         <br/> rubikSolver
@@ -175,7 +220,11 @@
     </td>   
     <td>
       <a href="https://github.com/Alessandro1918/sudokuSolver">
-        <img alt="sudokuSolver" title="sudokuSolver" src="assets/sudokuSolver.png" width="600" />
+        <img 
+          alt="sudokuSolver" 
+          title="sudokuSolver" 
+          src="assets/sudokuSolver.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/sudokuSolver">
         sudokuSolver
@@ -184,7 +233,11 @@
     </td>
     <td>
       <a href="https://github.com/Alessandro1918/tictactoeAI">
-        <img alt="tictactoeAI" title="tictactoeAI" src="assets/tictactoeAI.png" width="250" />
+        <img 
+          alt="tictactoeAI" 
+          title="tictactoeAI" 
+          src="assets/tictactoeAI.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/tictactoeAI">
         tictactoeAI
@@ -200,7 +253,11 @@
   <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/pokerAPI">
-        <img alt="pokerAPI" title="pokerAPI" src="assets/pokerAPI.png" width="250"/>
+        <img 
+          alt="pokerAPI" 
+          title="pokerAPI" 
+          src="assets/pokerAPI.png"
+        />
       </a> 
       <a href="https://github.com/Alessandro1918/pokerAPI">
         <br/> pokerAPI
