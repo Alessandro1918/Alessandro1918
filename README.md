@@ -84,18 +84,18 @@
       <br/> Um identificador de imagens de Pokemon! Tire uma foto e descubra mais sobre seu Pokemon preferido!
     </td>   
     <td>
-      <a href="https://github.com/Alessandro1918/Setup-NLW-08">
+      <a href="https://github.com/Alessandro1918/google-maps-api">
         <img 
-          alt="setup-nlw" 
-          title="setup-nlw" 
-          src="assets/nlw-setup-mobile.png"
+          alt="google-maps" 
+          title="google-maps" 
+          src="assets/maps.jpg"
         />
       </a> 
-      <a href="https://github.com/Alessandro1918/Setup-NLW-08">
-        Setup-NLW-08
+      <a href="https://github.com/Alessandro1918/google-maps-api">
+        Google Maps API
       </a>
-      <br/> Um controlador de hábitos com visualização do progresso dia-a-dia
-    </td>
+      <br/> Visualize dados geográficos em gráficos de mapas, encontre relações de modo mais fácil, e tenha insights melhores! 
+    </td> 
     <td>
       <a href="https://github.com/Alessandro1918/video-chat-front">
         <img 
@@ -117,18 +117,31 @@
   -->
   <tr align="center">
     <td>
-      <a href="https://github.com/Alessandro1918/google-maps-api">
+      <a href="https://github.com/Alessandro1918/who-am-i">
         <img 
-          alt="google-maps" 
-          title="google-maps" 
-          src="assets/maps.jpg"
+          alt="who-am-i" 
+          title="who-am-i" 
+          src="assets/who-am-i.jpg"
         />
       </a> 
-      <a href="https://github.com/Alessandro1918/google-maps-api">
-        Google Maps API
+      <a href="https://github.com/Alessandro1918/who-am-i">
+        Who Am I?
       </a>
-      <br/> Visualize dados geográficos em gráficos de mapas, encontre relações de modo mais fácil, e tenha insights melhores! 
+      <br/> Obtenha informações sobre usuários do seu site e trace um perfil do seu público-alvo.
     </td> 
+    <td>
+      <a href="https://github.com/Alessandro1918/Setup-NLW-08">
+        <img 
+          alt="setup-nlw" 
+          title="setup-nlw" 
+          src="assets/nlw-setup-mobile.png"
+        />
+      </a> 
+      <a href="https://github.com/Alessandro1918/Setup-NLW-08">
+        Setup-NLW-08
+      </a>
+      <br/> Um controlador de hábitos com visualização do progresso dia-a-dia
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/mobile-push-notifications">
         <img 
@@ -143,6 +156,13 @@
       </a>
       <br/> Um projeto minimalista mostrando o funcionamento de envio de notificações para aplicativos de celular usando a plataforma Expo
     </td>
+  </tr>
+  <!-- 
+    .
+    ROW 4:
+    .
+  -->
+  <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/blogpostAPI">
         <img 
@@ -155,14 +175,7 @@
         blogpostAPI
       </a>
       <br/> Um protótipo de API para salvar, ler, editar e deletar posts de diferentes autores em um blog
-    </td>
-  </tr>
-  <!-- 
-    .
-    ROW 4:
-    .
-  -->
-  <tr align="center">
+    </td>  
     <td>
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
         <img 
@@ -175,7 +188,7 @@
         Chat-NLW-05
       </a>
       <br/> Implementação de um web chat para comunicação online!
-    </td>   
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
         <img 
@@ -189,6 +202,13 @@
       </a>
       <br/> Aumente sua produtividade, melhore sua saúde, ganhe pontos e suba de nível!
     </td>
+  </tr>
+  <!-- 
+    .
+    ROW 5:
+    .
+  -->
+  <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/Happy-NLW-03">
         <img 
@@ -201,14 +221,7 @@
         Happy-NLW-03
       </a> 
       <br/> O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você!
-    </td>
-  </tr>
-  <!-- 
-    .
-    ROW 5:
-    .
-  -->
-  <tr align="center">
+    </td>  
     <td>
       <a href="https://github.com/Alessandro1918/rubikSolver">
         <img alt="rubikSolver" title="rubikSolver" src="assets/rubikSolver.png"/>
@@ -217,7 +230,7 @@
         <br/> rubikSolver
       </a>
       <br/> A python script to solve a Rubik's Cube!
-    </td>   
+    </td> 
     <td>
       <a href="https://github.com/Alessandro1918/sudokuSolver">
         <img 
@@ -231,6 +244,13 @@
       </a> 
       <br/> A Python script to solve Sudoku games!
     </td>
+  </tr>
+  <!-- 
+    .
+    ROW 6:
+    .
+  -->
+  <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/tictactoeAI">
         <img 
@@ -243,14 +263,7 @@
         tictactoeAI
       </a> 
       <br/> Test your Tic-Tac-Toe abilities against a computer!
-    </td>
-  </tr>
-  <!-- 
-    .
-    ROW 6:
-    .
-  -->
-  <tr align="center">
+    </td>   
     <td>
       <a href="https://github.com/Alessandro1918/pokerAPI">
         <img 
@@ -263,9 +276,7 @@
         <br/> pokerAPI
       </a> 
       <br/> Rank poker hands! With this API, input some cards, and get a numeric value related to that hand's strength!
-    </td>   
-    <td>
-    </td>
+    </td> 
     <td>
     </td>
   </tr>
