@@ -3,15 +3,48 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> **Hello world!**
 -->
 
-*"Only half of programming is coding. The other 90% is debugging"*<br/>
-&nbsp; &nbsp; &nbsp; Anonymous
+<!-- *"Only half of programming is coding. The other 90% is debugging"*<br/>
+&nbsp; &nbsp; &nbsp; Anonymous -->
 
-*"There are only 10 types of people in this world: those who understand binary, and those who don't"*<br/>
-&nbsp; &nbsp; &nbsp; Ian Stewart
+<!-- *"There are only 10 types of people in this world: those who understand binary, and those who don't"*<br/>
+&nbsp; &nbsp; &nbsp; Ian Stewart -->
 
 <!-- Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler -->
 
 <!-- If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe -->
+
+<div align="center">
+  <img 
+    width="30%"
+    alt="Only half of programming is coding. The other 90% is debugging - Anonymous"
+    title="Only half of programming is coding. The other 90% is debugging - Anonymous" 
+    src="github_assets/half-of-programming-is-coding.jpg"
+  />
+  <img 
+    width="30%"
+    alt="There are only 10 types of people in this world: those who understand binary, and those who don't - Ian Stewart"
+    title="There are only 10 types of people in this world: those who understand binary, and those who don't - Ian Stewart"
+    src="github_assets/10-kinds-of-people.jpg"
+  />
+  <img 
+    width="30%"
+    alt="Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler"
+    title="Any fool can write code that a computer can understand. Good programmers write code that humans can understand. ― Martin Fowler" 
+    src="github_assets/any-fool-can-write-code.jpg"
+  />
+  <img 
+    width="30%"
+    alt="If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe"
+    title="If, at first, you do not succeed, call it version 1.0. ― Khayri R.R. Woulfe" 
+    src="github_assets/if-at-first-you-do-not-succeed.jpg"
+  />
+  <img 
+    width="30%"
+    alt="NCIS hacking"
+    title="NCIS hacking" 
+    src="https://laughingsquid.com/wp-content/uploads/2021/06/NCIS-Two-Typists-One-Keyboard.gif"
+  />
+</div>
 
 ### Confira meus outros projetos!
 
@@ -27,7 +60,7 @@
         <img 
           alt="cnv_pokemon" 
           title="cnv_pokemon" 
-          src="assets/cnv_pokemon.png"
+          src="github_assets/cnv_pokemon.png"
         />
       </a>
       <a href="https://github.com/Alessandro1918/cnv_neural_network_pokemon">
@@ -40,7 +73,7 @@
         <img 
           alt="aleFM" 
           title="aleFM" 
-          src="assets/aleFM.jpg"
+          src="github_assets/aleFM.jpg"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/aleFM">
@@ -53,7 +86,7 @@
         <img 
           alt="swaggerAPI" 
           title="swaggerAPI" 
-          src="assets/swagger.png" 
+          src="github_assets/swagger.png" 
           width="80%"
         />
       </a> 
@@ -74,8 +107,8 @@
         <img 
           alt="pokedex AR" 
           title="pokedex AR" 
-          src="assets/pokedexAr.png" 
-          width="65%"
+          src="github_assets/pokedexAr.png" 
+          width="70%"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/pokedex-ar">
@@ -88,7 +121,7 @@
         <img 
           alt="google-maps" 
           title="google-maps" 
-          src="assets/maps.jpg"
+          src="github_assets/maps.jpg"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/google-maps-api">
@@ -101,7 +134,7 @@
         <img 
           alt="videochat" 
           title="videochat" 
-          src="assets/videochat.jpg"
+          src="github_assets/videochat.jpg"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/video-chat-front">
@@ -121,7 +154,7 @@
         <img 
           alt="who-am-i" 
           title="who-am-i" 
-          src="assets/who-am-i.jpg"
+          src="github_assets/who-am-i.jpg"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/who-am-i">
@@ -134,7 +167,7 @@
         <img 
           alt="setup-nlw" 
           title="setup-nlw" 
-          src="assets/nlw-setup-mobile.png"
+          src="github_assets/nlw-setup-mobile.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/Setup-NLW-08">
@@ -147,8 +180,8 @@
         <img 
           alt="mobile-push-notifications" 
           title="mobile-push-notifications" 
-          src="assets/mobile-push-notifications.jpg" 
-          width="85%"
+          src="github_assets/mobile-push-notifications.jpg" 
+          width="90%"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/mobile-push-notifications">
@@ -168,7 +201,7 @@
         <img 
           alt="blogpostAPI" 
           title="blogpostAPI" 
-          src="assets/blogpostAPI.jpeg"
+          src="github_assets/blogpostAPI.jpeg"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/blogpostAPI">
@@ -181,7 +214,7 @@
         <img 
           alt="chat" 
           title="Chat-NLW-05" 
-          src="assets/chat.png"
+          src="github_assets/chat.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
@@ -194,7 +227,7 @@
         <img 
           alt="move.it" 
           title="move.it" 
-          src="assets/move_it.png"
+          src="github_assets/move_it.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
@@ -214,7 +247,7 @@
         <img 
           alt="happy" 
           title="happy" 
-          src="assets/happy.png"
+          src="github_assets/happy.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/Happy-NLW-03">
@@ -224,7 +257,7 @@
     </td>  
     <td>
       <a href="https://github.com/Alessandro1918/rubikSolver">
-        <img alt="rubikSolver" title="rubikSolver" src="assets/rubikSolver.png"/>
+        <img alt="rubikSolver" title="rubikSolver" src="github_assets/rubikSolver.png"/>
       </a> 
       <a href="https://github.com/Alessandro1918/rubikSolver">
         <br/> rubikSolver
@@ -236,7 +269,7 @@
         <img 
           alt="sudokuSolver" 
           title="sudokuSolver" 
-          src="assets/sudokuSolver.png"
+          src="github_assets/sudokuSolver.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/sudokuSolver">
@@ -256,7 +289,7 @@
         <img 
           alt="tictactoeAI" 
           title="tictactoeAI" 
-          src="assets/tictactoeAI.png"
+          src="github_assets/tictactoeAI.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/tictactoeAI">
@@ -265,11 +298,60 @@
       <br/> Test your Tic-Tac-Toe abilities against a computer!
     </td>   
     <td>
+      <a href="https://github.com/Alessandro1918/tetris">
+        <img 
+          alt="tetris" 
+          title="tetris" 
+          src="github_assets/tetris.png"
+          width="80%"
+        />
+      </a> 
+      <a href="https://github.com/Alessandro1918/tetris">
+        <br/> Tetris
+      </a> 
+      <br/> Um jogo de Tetris, usando um terminal CLI como interface gráfica. Inspirado pela versão original de Tetris desenvolvida por Alexey Pajitnov em 1985.
+    </td> 
+    <td>
+      <a href="https://github.com/Alessandro1918/game-of-life">
+        <img 
+          alt="game-of-life" 
+          title="game-of-life" 
+          src="github_assets/game-of-life.png"
+          width="80%"
+        />
+      </a> 
+      <a href="https://github.com/Alessandro1918/game-of-life">
+        <br/> Conway's Game of Life
+      </a> 
+      <br/> Uma simulação do "Jogo da Vida" (Conway's Game of Life), um "jogo de zero jogadores" criado pelo matemático John Horton Conway em 1970.
+    </td> 
+  </tr>
+  <!-- 
+    .
+    ROW 7:
+    .
+  -->
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/minesweeper">
+        <img 
+          alt="minesweeper" 
+          title="minesweeper" 
+          src="github_assets/minesweeper.png"
+          width="90%"
+        />
+      </a> 
+      <a href="https://github.com/Alessandro1918/minesweeper">
+        Campo Minado
+      </a> 
+      <br/> Uma releitura de Campo Minado, clássico jogo do Windows, agora em um terminal CLI.
+    </td>   
+    <td>
       <a href="https://github.com/Alessandro1918/pokerAPI">
         <img 
           alt="pokerAPI" 
           title="pokerAPI" 
-          src="assets/pokerAPI.png"
+          src="github_assets/pokerAPI.png"
         />
       </a> 
       <a href="https://github.com/Alessandro1918/pokerAPI">
