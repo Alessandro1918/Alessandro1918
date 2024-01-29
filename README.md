@@ -66,7 +66,7 @@
       <a href="https://github.com/Alessandro1918/cnv_neural_network_pokemon">
         CNV Neural Net Pokemon
       </a>
-      <br/> A Neural Network used for Image Classification and Computer Vision. How can we balance all the technical terms, specifications and architectural decisions to make this problem more interesting? With Pokemon!
+      <br/> A Neural Network used for Image Classification and Computer Vision... of Pokemon!
     </td>
     <td width="33%">
       <a href="https://github.com/Alessandro1918/aleFM">
@@ -187,7 +187,7 @@
       <a href="https://github.com/Alessandro1918/mobile-push-notifications">
         Mobile Push Notifications
       </a>
-      <br/> Um projeto minimalista mostrando o funcionamento de envio de notificações para aplicativos de celular usando a plataforma Expo
+      <br/> Um projeto minimalista para o envio de notificações para aplicativos de celular usando a plataforma Expo
     </td>
   </tr>
   <!-- 
@@ -309,7 +309,7 @@
       <a href="https://github.com/Alessandro1918/tetris">
         <br/> Tetris
       </a> 
-      <br/> Um jogo de Tetris, usando um terminal CLI como interface gráfica. Inspirado pela versão original de Tetris desenvolvida por Alexey Pajitnov em 1985.
+      <br/> Um jogo de Tetris, usando um terminal CLI como interface gráfica.
     </td> 
     <td>
       <a href="https://github.com/Alessandro1918/game-of-life">
@@ -323,7 +323,7 @@
       <a href="https://github.com/Alessandro1918/game-of-life">
         <br/> Conway's Game of Life
       </a> 
-      <br/> Uma simulação do "Jogo da Vida" (Conway's Game of Life), um "jogo de zero jogadores" criado pelo matemático John Horton Conway em 1970.
+      <br/> Uma simulação do "Jogo da Vida" (Conway's Game of Life) em um terminal CLI.
     </td> 
   </tr>
   <!-- 
