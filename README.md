@@ -60,13 +60,14 @@
         <img 
           alt="cnv_pokemon" 
           title="cnv_pokemon" 
-          src="github_assets/cnv_pokemon.png"
+          src="https://github.com/Alessandro1918/cnv_neural_network_pokemon/blob/main/github_assets/NN.png"
         />
       </a>
       <a href="https://github.com/Alessandro1918/cnv_neural_network_pokemon">
         CNV Neural Net Pokemon
       </a>
-      <br/> A Neural Network used for Image Classification and Computer Vision... of Pokemon!
+      <br/>
+      A Neural Network used for Image Classification and Computer Vision... of Pokemon!
     </td>
     <td width="33%">
       <a href="https://github.com/Alessandro1918/aleFM">
@@ -74,12 +75,15 @@
           alt="aleFM" 
           title="aleFM" 
           src="github_assets/aleFM.jpg"
+          width="70%"
         />
-      </a> 
+      </a>
+      <br/>
       <a href="https://github.com/Alessandro1918/aleFM">
         Ale FM
       </a>
-      <br/> Uma rádio web tocando minhas músicas preferidas, 24h por dia!
+      <br/>
+      Uma rádio web tocando minhas músicas preferidas, 24h por dia!
     </td>
     <td width="33%">
       <a href="https://github.com/Alessandro1918/swagger-api">
@@ -89,11 +93,12 @@
           src="github_assets/swagger.png" 
           width="80%"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/swagger-api">
         Swagger API
       </a>
-      <br/> Um exemplo de documentação de rotas de API com Swagger
+      <br/>
+      Um exemplo de documentação de rotas de API com Swagger
     </td>
   </tr>
   <!-- 
@@ -107,15 +112,133 @@
         <img 
           alt="pokedex AR" 
           title="pokedex AR" 
-          src="github_assets/pokedexAr.png" 
-          width="70%"
+          src="https://github.com/Alessandro1918/pokedex-ar/blob/main/assets/googlePlay/2%20-%20overview.png"
+          width="45%"
         />
-      </a> 
-      <a href="https://github.com/Alessandro1918/pokedex-ar">
-        <br/> Pokedex AR
+        <img 
+          alt="pokedex AR" 
+          title="pokedex AR" 
+          src="https://github.com/Alessandro1918/pokedex-ar/blob/main/assets/googlePlay/3%20-%20overview.png"
+          width="45%"
+        />
       </a>
-      <br/> Um identificador de imagens de Pokemon! Tire uma foto e descubra mais sobre seu Pokemon preferido!
-    </td>   
+      <a href="https://github.com/Alessandro1918/pokedex-ar">
+        Pokedex AR
+      </a>
+      <br/>
+      Um identificador de imagens de Pokemon! Tire uma foto e descubra mais sobre seu Pokemon preferido!
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/dockers">
+        <img 
+          alt="dockers" 
+          title="dockers" 
+          src="https://github.com/Alessandro1918/dockers/blob/main/github_assets/docker_logo.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/TODO">
+        Dockers
+      </a>
+      <br/>
+      Exemplos de projetos rodando em containers Docker.
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/radio-id">
+        <img 
+          alt="radio-id" 
+          title="radio-id" 
+          src="https://github.com/Alessandro1918/radio-id/blob/main/github_assets/radio-id.jpeg"
+          width="90%"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Alessandro1918/radio-id">
+        Radio ID
+      </a>
+      <br/>
+      Identifique a música que está tocando agora em sua estação de rádio favorita!
+    </td>
+  </tr>
+  <!-- 
+    .
+    ROW 3:
+    .
+  -->
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/nlw-pocket-js">
+        <img 
+          alt="create goal - in.orgit (nlw-pocket-js)" 
+          title="create goal - in.orgit (nlw-pocket-js)" 
+          src="https://github.com/Alessandro1918/nlw-pocket-js/blob/main/github_assets/create-goal.jpg"
+          width="45%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/nlw-pocket-js">
+        <img 
+          alt="goals - in.orgit (nlw-pocket-js)" 
+          title="goals - in.orgit (nlw-pocket-js)" 
+          src="https://github.com/Alessandro1918/nlw-pocket-js/blob/main/github_assets/goals.jpg"
+          width="45%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/nlw-pocket-js">
+        In.Orbit
+      </a>
+      <br/>
+      Um app (backend / frontend) para acompanhar tarefas e objetivos.
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/node-email">
+        <img 
+          alt="node-email" 
+          title="node-email" 
+          src="github_assets/node-email.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/node-email">
+        Node Email
+      </a>
+      <br/>
+      Envio de emails de um servidor Node.js
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/ci">
+        <img 
+          alt="ci" 
+          title="ci" 
+          src="github_assets/ci.png"
+          width="80%"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Alessandro1918/ci">
+        CI
+      </a>
+      <br/>
+      Integração contínua (CI) de um repositório GitHub para o DockerHub (Registro de Containers Docker). 
+    </td>
+  </tr>
+  <!-- 
+    .
+    ROW 4:
+    .
+  -->
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/google-sheets-db">
+        <img 
+          alt="google-sheets-db" 
+          title="google-sheets-db" 
+          src="https://github.com/Alessandro1918/google-sheets-db/blob/main/github_assets/google-sheet.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/google-sheets-db">
+        Google Sheets Database
+      </a>
+      <br/>
+      Protótipo de uma base de dados a partir de uma Planilha Google.
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/google-maps-api">
         <img 
@@ -123,29 +246,31 @@
           title="google-maps" 
           src="github_assets/maps.jpg"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/google-maps-api">
         Google Maps API
       </a>
-      <br/> Visualize dados geográficos em gráficos de mapas, encontre relações de modo mais fácil, e tenha insights melhores! 
-    </td> 
+      <br/>
+      Visualize dados geográficos em gráficos de mapas, encontre relações de modo mais fácil, e tenha insights melhores! 
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/video-chat-front">
         <img 
           alt="videochat" 
           title="videochat" 
-          src="github_assets/videochat.jpg"
+          src="https://github.com/Alessandro1918/video-chat-front/blob/main/assets/videochat.jpg"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/video-chat-front">
         Videochat
       </a>
-      <br/> Uma sala de videochat autônoma, sem bibliotecas de terceiros!
+      <br/>
+      Uma sala de videochat autônoma, sem bibliotecas de terceiros!
     </td>
   </tr>
   <!-- 
     .
-    ROW 3:
+    ROW 5:
     .
   -->
   <tr align="center">
@@ -156,43 +281,47 @@
           title="who-am-i" 
           src="github_assets/who-am-i.jpg"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/who-am-i">
         Who Am I?
       </a>
-      <br/> Obtenha informações sobre usuários do seu site e trace um perfil do seu público-alvo.
-    </td> 
+      <br/>
+      Obtenha informações sobre usuários do seu site e trace um perfil do seu público-alvo.
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/Setup-NLW-08">
         <img 
           alt="setup-nlw" 
           title="setup-nlw" 
-          src="github_assets/nlw-setup-mobile.png"
+          src="https://github.com/Alessandro1918/Setup-NLW-08/blob/main/assets/nlw-setup-mobile.png"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/Setup-NLW-08">
         Setup-NLW-08
       </a>
-      <br/> Um controlador de hábitos com visualização do progresso dia-a-dia
+      <br/>
+      Um controlador de hábitos com visualização do progresso dia-a-dia
     </td>
     <td>
       <a href="https://github.com/Alessandro1918/mobile-push-notifications">
         <img 
           alt="mobile-push-notifications" 
           title="mobile-push-notifications" 
-          src="github_assets/mobile-push-notifications.jpg" 
-          width="90%"
+          src="https://github.com/Alessandro1918/mobile-push-notifications/blob/main/github/demo.jpg" 
+          width="80%"
         />
-      </a> 
+      </a>
+      <br/>
       <a href="https://github.com/Alessandro1918/mobile-push-notifications">
         Mobile Push Notifications
       </a>
-      <br/> Um projeto minimalista para o envio de notificações para aplicativos de celular usando a plataforma Expo
+      <br/>
+      Um projeto minimalista para o envio de notificações para aplicativos de celular usando a plataforma Expo
     </td>
   </tr>
   <!-- 
     .
-    ROW 4:
+    ROW 6:
     .
   -->
   <tr align="center">
@@ -203,128 +332,42 @@
           title="blogpostAPI" 
           src="github_assets/blogpostAPI.jpeg"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/blogpostAPI">
         blogpostAPI
       </a>
-      <br/> Um protótipo de API para salvar, ler, editar e deletar posts de diferentes autores em um blog
-    </td>  
+      <br/>
+      Um protótipo de API para salvar, ler, editar e deletar posts de diferentes autores em um blog
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
         <img 
           alt="chat" 
           title="Chat-NLW-05" 
-          src="github_assets/chat.png"
+          src="https://github.com/Alessandro1918/Chat-NLW-05/blob/main/.github/print2.png"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
         Chat-NLW-05
       </a>
-      <br/> Implementação de um web chat para comunicação online!
+      <br/>
+      Implementação de um web chat para comunicação online!
     </td>
     <td>
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
         <img 
           alt="move.it" 
           title="move.it" 
-          src="github_assets/move_it.png"
+          src="https://github.com/Alessandro1918/Move.it-NLW-04/blob/main/.github/print1.png"
+          width="90%"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
         Move.it-NLW-04
       </a>
-      <br/> Aumente sua produtividade, melhore sua saúde, ganhe pontos e suba de nível!
+      <br/>
+      Aumente sua produtividade, melhore sua saúde, ganhe pontos e suba de nível!
     </td>
-  </tr>
-  <!-- 
-    .
-    ROW 5:
-    .
-  -->
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Alessandro1918/Happy-NLW-03">
-        <img 
-          alt="happy" 
-          title="happy" 
-          src="github_assets/happy.png"
-        />
-      </a> 
-      <a href="https://github.com/Alessandro1918/Happy-NLW-03">
-        Happy-NLW-03
-      </a> 
-      <br/> O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você!
-    </td>  
-    <td>
-      <a href="https://github.com/Alessandro1918/rubikSolver">
-        <img alt="rubikSolver" title="rubikSolver" src="github_assets/rubikSolver.png"/>
-      </a> 
-      <a href="https://github.com/Alessandro1918/rubikSolver">
-        <br/> rubikSolver
-      </a>
-      <br/> A python script to solve a Rubik's Cube!
-    </td> 
-    <td>
-      <a href="https://github.com/Alessandro1918/sudokuSolver">
-        <img 
-          alt="sudokuSolver" 
-          title="sudokuSolver" 
-          src="github_assets/sudokuSolver.png"
-        />
-      </a> 
-      <a href="https://github.com/Alessandro1918/sudokuSolver">
-        sudokuSolver
-      </a> 
-      <br/> A Python script to solve Sudoku games!
-    </td>
-  </tr>
-  <!-- 
-    .
-    ROW 6:
-    .
-  -->
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Alessandro1918/tictactoeAI">
-        <img 
-          alt="tictactoeAI" 
-          title="tictactoeAI" 
-          src="github_assets/tictactoeAI.png"
-        />
-      </a> 
-      <a href="https://github.com/Alessandro1918/tictactoeAI">
-        tictactoeAI
-      </a> 
-      <br/> Test your Tic-Tac-Toe abilities against a computer!
-    </td>   
-    <td>
-      <a href="https://github.com/Alessandro1918/tetris">
-        <img 
-          alt="tetris" 
-          title="tetris" 
-          src="github_assets/tetris.png"
-          width="80%"
-        />
-      </a> 
-      <a href="https://github.com/Alessandro1918/tetris">
-        <br/> Tetris
-      </a> 
-      <br/> Um jogo de Tetris, usando um terminal CLI como interface gráfica.
-    </td> 
-    <td>
-      <a href="https://github.com/Alessandro1918/game-of-life">
-        <img 
-          alt="game-of-life" 
-          title="game-of-life" 
-          src="github_assets/game-of-life.png"
-          width="80%"
-        />
-      </a> 
-      <a href="https://github.com/Alessandro1918/game-of-life">
-        <br/> Conway's Game of Life
-      </a> 
-      <br/> Uma simulação do "Jogo da Vida" (Conway's Game of Life) em um terminal CLI.
-    </td> 
   </tr>
   <!-- 
     .
@@ -333,19 +376,136 @@
   -->
   <tr align="center">
     <td>
+      <a href="https://github.com/Alessandro1918/Happy-NLW-03">
+        <img 
+          alt="happy" 
+          title="happy" 
+          src="https://github.com/Alessandro1918/Happy-NLW-03/blob/main/.github/happy.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/Happy-NLW-03">
+        Happy-NLW-03
+      </a>
+      <br/>
+      O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você!
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/Proffy-NLW-02">
+        <img 
+          alt="happy" 
+          title="happy" 
+          src="https://github.com/Alessandro1918/Proffy-NLW-02/blob/main/.github/design.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/Proffy-NLW-02">
+        Proffy-NLW-02
+      </a>
+      <br/>
+      O Proffy é uma plataforma de estudos online que ajuda pessoas a encontrarem professores online.
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/rubikSolver">
+        <img 
+          alt="rubikSolver" 
+          title="rubikSolver" 
+          src="github_assets/rubikSolver.png"
+          width="80%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/rubikSolver">
+        rubikSolver
+      </a>
+      <br/>
+      A python script to solve a Rubik's Cube!
+    </td>
+  </tr>
+  <!-- 
+    .
+    ROW 8:
+    .
+  -->
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/sudokuSolver">
+        <img 
+          alt="sudokuSolver" 
+          title="sudokuSolver" 
+          src="github_assets/sudokuSolver.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/sudokuSolver">
+        sudokuSolver
+      </a>
+      <br/>
+      A Python script to solve Sudoku games!
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/tictactoeAI">
+        <img 
+          alt="tictactoeAI" 
+          title="tictactoeAI" 
+          src="https://github.com/Alessandro1918/tictactoeAI/blob/main/printscreen.png"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/tictactoeAI">
+        tictactoeAI
+      </a>
+      <br/>
+      Test your Tic-Tac-Toe abilities against a computer!
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/tetris">
+        <img 
+          alt="tetris" 
+          title="tetris" 
+          src="https://github.com/Alessandro1918/tetris/blob/main/github_assets/example_color.png"
+          width="80%"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Alessandro1918/tetris">
+        Tetris
+      </a>
+      <br/>
+      Um jogo de Tetris, usando um terminal CLI como interface gráfica.
+    </td>
+  </tr>
+  <!-- 
+    .
+    ROW 9:
+    .
+  -->
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/game-of-life">
+        <img 
+          alt="game-of-life" 
+          title="game-of-life" 
+          src="https://github.com/Alessandro1918/game-of-life/blob/main/github_assets/example.png"
+          width="80%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/game-of-life">
+        Conway's Game of Life
+      </a>
+      <br/>
+      Uma simulação do "Jogo da Vida" (Conway's Game of Life) em um terminal CLI.
+    </td>
+    <td>
       <a href="https://github.com/Alessandro1918/minesweeper">
         <img 
           alt="minesweeper" 
           title="minesweeper" 
-          src="github_assets/minesweeper.png"
+          src="https://github.com/Alessandro1918/minesweeper/blob/main/github_assets/example_midgame.png"
           width="90%"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/minesweeper">
         Campo Minado
-      </a> 
-      <br/> Uma releitura de Campo Minado, clássico jogo do Windows, agora em um terminal CLI.
-    </td>   
+      </a>
+      <br/>
+      Uma releitura de Campo Minado, clássico jogo do Windows, agora em um terminal CLI.
+    </td>
     <td>
       <a href="https://github.com/Alessandro1918/pokerAPI">
         <img 
@@ -353,13 +513,12 @@
           title="pokerAPI" 
           src="github_assets/pokerAPI.png"
         />
-      </a> 
+      </a>
       <a href="https://github.com/Alessandro1918/pokerAPI">
-        <br/> pokerAPI
-      </a> 
-      <br/> Rank poker hands! With this API, input some cards, and get a numeric value related to that hand's strength!
-    </td> 
-    <td>
+        pokerAPI
+      </a>
+      <br/>
+      Rank poker hands! With this API, input some cards, and get a numeric value related to that hand's strength!
     </td>
   </tr>
 </table>
