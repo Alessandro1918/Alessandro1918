@@ -112,18 +112,56 @@
 <table>
   <tr align="center">
     <td width="33%">
+      <a href="https://github.com/Alessandro1918/transformarti">
+        <img 
+          alt="transformarti-home" 
+          title="transformarti-home" 
+          src="github_assets/transformarti.png" 
+          width="90%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/transformarti">
+        Transformarti
+      </a>
+      <br/>
+      Landing page da Clínica Odontológica Transformarti
+    </td>
+    <td width="33%">
+      <a href="https://github.com/Alessandro1918/wisteria">
+        <img 
+          alt="wisteria-1" 
+          title="wisteria-1" 
+          src="github_assets/wisteria-1.png" 
+          width="45%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/wisteria">
+        <img 
+          alt="wisteria-2" 
+          title="wisteria-2" 
+          src="github_assets/wisteria-2.png" 
+          width="45%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/wisteria">
+        Wisteria
+      </a>
+      <br/>
+      Webpage da loja de produtos artesanais Wisteria
+    </td>
+    <td width="33%">
       <a href="https://github.com/Alessandro1918/nlw-pocket-js">
         <img 
-          alt="create goal - in.orgit (nlw-pocket-js)" 
-          title="create goal - in.orgit (nlw-pocket-js)" 
+          alt="create goal - in.orbit (nlw-pocket-js)" 
+          title="create goal - in.orbit (nlw-pocket-js)" 
           src="https://github.com/Alessandro1918/nlw-pocket-js/blob/main/github_assets/create-goal.jpg"
           width="45%"
         />
       </a>
       <a href="https://github.com/Alessandro1918/nlw-pocket-js">
         <img 
-          alt="goals - in.orgit (nlw-pocket-js)" 
-          title="goals - in.orgit (nlw-pocket-js)" 
+          alt="list goals - in.orbit (nlw-pocket-js)" 
+          title="list goals - in.orbit (nlw-pocket-js)" 
           src="https://github.com/Alessandro1918/nlw-pocket-js/blob/main/github_assets/goals.jpg"
           width="45%"
         />
@@ -134,7 +172,9 @@
       <br/>
       Um app (backend / frontend) para acompanhar tarefas e objetivos.
     </td>
-    <td width="33%">
+  </tr>
+  <tr align="center">
+    <td>
       <a href="https://github.com/Alessandro1918/Setup-NLW-08">
         <img 
           alt="setup-nlw" 
@@ -149,7 +189,7 @@
       <br/>
       Um controlador de hábitos com visualização do progresso dia-a-dia
     </td>
-    <td width="33%">
+    <td>
       <a href="https://github.com/Alessandro1918/Chat-NLW-05">
         <img 
           alt="chat" 
@@ -164,8 +204,6 @@
       <br/>
       Implementação de um web chat para comunicação online!
     </td>
-  </tr>
-  <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/Move.it-NLW-04">
         <img 
@@ -181,6 +219,8 @@
       <br/>
       Aumente sua produtividade, melhore sua saúde, ganhe pontos e suba de nível!
     </td>
+  </tr>
+  <tr align="center">
     <td>
       <a href="https://github.com/Alessandro1918/Happy-NLW-03">
         <img 
