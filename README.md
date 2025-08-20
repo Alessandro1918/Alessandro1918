@@ -53,6 +53,28 @@
 <table>
   <tr align="center">
     <td width="33%">
+    </td>
+    <td width="33%">
+      <a href="https://github.com/Alessandro1918/aleFM">
+        <img 
+          alt="aleFM" 
+          title="aleFM" 
+          src="https://github.com/Alessandro1918/aleFM/blob/main/github/home.png"
+          width="70%"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Alessandro1918/aleFM">
+        Ale FM
+      </a>
+      <br/>
+      Uma rádio web tocando minhas músicas preferidas, 24h por dia!
+    </td>
+    <td width="33%">
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
       <a href="https://github.com/Alessandro1918/cnv_neural_network_pokemon">
         <img 
           alt="cnv_pokemon" 
@@ -66,23 +88,7 @@
       <br/>
       A Neural Network used for Image Classification and Computer Vision... of Pokemon!
     </td>
-    <td width="33%">
-      <a href="https://github.com/Alessandro1918/aleFM">
-        <img 
-          alt="aleFM" 
-          title="aleFM" 
-          src="github_assets/aleFM.jpg"
-          width="70%"
-        />
-      </a>
-      <br/>
-      <a href="https://github.com/Alessandro1918/aleFM">
-        Ale FM
-      </a>
-      <br/>
-      Uma rádio web tocando minhas músicas preferidas, 24h por dia!
-    </td>
-    <td width="33%">
+    <td>
       <a href="https://github.com/Alessandro1918/pokedex-ar">
         <img 
           alt="pokedex AR" 
@@ -102,6 +108,27 @@
       </a>
       <br/>
       Um app identificador de imagens de Pokemon! Tire uma foto e descubra mais sobre seu Pokemon preferido!
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/pokedex-ar-web">
+        <img 
+          alt="Pokedex AR Web - Home" 
+          title="Pokedex AR Web - Home" 
+          src="https://github.com/Alessandro1918/pokedex-ar-web/blob/main/github_assets/home.jpg"
+          width="45%"
+        />
+        <img 
+          alt="Pokedex AR Web - History" 
+          title="Pokedex AR Web - History" 
+          src="https://github.com/Alessandro1918/pokedex-ar-web/blob/main/github_assets/history.jpg"
+          width="45%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/pokedex-ar-web">
+        Pokedex AR Web
+      </a>
+      <br/>
+      Versão web do app Pokedex-AR
     </td>
   </tr>
 </table>
@@ -170,7 +197,7 @@
         In.Orbit
       </a>
       <br/>
-      Um app (backend / frontend) para acompanhar tarefas e objetivos.
+      Um site (backend / frontend) para acompanhar tarefas e objetivos.
     </td>
   </tr>
   <tr align="center">
@@ -455,6 +482,38 @@
       </a>
       <br/>
       Um projeto minimalista para o envio de notificações para aplicativos de celular usando a plataforma Expo
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/automate-form">
+        <img 
+          alt="automate-form" 
+          title="automate-form" 
+          src="https://github.com/Alessandro1918/automate-form/blob/main/github_assets/automate-form.png" 
+          width="80%"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Alessandro1918/automate-form">
+        Automate PC Web
+      </a>
+      <br/>
+      Automatize tarefas repetitivas com scripts que controlam seu mouse e teclado!
+    </td>
+    <td>
+      <a href="https://github.com/Alessandro1918/pokemon-tcg-mosaic">
+        <img 
+          alt="pokemon-tcg-mosaic" 
+          title="pokemon-tcg-mosaic" 
+          src="https://github.com/Alessandro1918/pokemon-tcg-mosaic/blob/main/github_assets/tcg-back-mosaic.jpg" 
+          width="80%"
+        />
+      </a>
+      <br/>
+      <a href="https://github.com/Alessandro1918/pokemon-tcg-mosaic">
+        Pokemon TCG Mosaic
+      </a>
+      <br/>
+      Um mosaico de uma carta de Pokemon, usando outras cartas de Pokemon!
     </td>
   </tr>
 </table>
