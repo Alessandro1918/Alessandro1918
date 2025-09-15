@@ -60,7 +60,7 @@
           alt="aleFM" 
           title="aleFM" 
           src="https://github.com/Alessandro1918/aleFM/blob/main/github/home.png"
-          width="70%"
+          width="95%"
         />
       </a>
       <br/>
@@ -159,7 +159,7 @@
           alt="wisteria-1" 
           title="wisteria-1" 
           src="github_assets/wisteria-1.png" 
-          width="45%"
+          width="48%"
         />
       </a>
       <a href="https://github.com/Alessandro1918/wisteria">
@@ -167,7 +167,7 @@
           alt="wisteria-2" 
           title="wisteria-2" 
           src="github_assets/wisteria-2.png" 
-          width="45%"
+          width="48%"
         />
       </a>
       <a href="https://github.com/Alessandro1918/wisteria">
@@ -397,21 +397,6 @@
       <br/>
       Um protótipo de API para salvar, ler, editar e deletar posts de diferentes autores em um blog
     </td>
-    <td>
-      <a href="https://github.com/Alessandro1918/pokerAPI">
-        <img 
-          alt="pokerAPI" 
-          title="pokerAPI" 
-          src="github_assets/pokerAPI.png"
-          width="80%"
-        />
-      </a>
-      <a href="https://github.com/Alessandro1918/pokerAPI">
-        pokerAPI
-      </a>
-      <br/>
-      Rank poker hands! With this API, input some cards, and get a numeric value related to that hand's strength!
-    </td>
   </tr>
 </table>
 </br>
@@ -489,7 +474,7 @@
           alt="automate-form" 
           title="automate-form" 
           src="https://github.com/Alessandro1918/automate-form/blob/main/github_assets/automate-form.png" 
-          width="80%"
+          width="95%"
         />
       </a>
       <br/>
@@ -514,6 +499,23 @@
       </a>
       <br/>
       Um mosaico de uma carta de Pokemon, usando outras cartas de Pokemon!
+    </td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="https://github.com/Alessandro1918/pokerAPI">
+        <img 
+          alt="pokerAPI" 
+          title="pokerAPI" 
+          src="github_assets/pokerAPI.png"
+          width="80%"
+        />
+      </a>
+      <a href="https://github.com/Alessandro1918/pokerAPI">
+        pokerAPI
+      </a>
+      <br/>
+      Rank poker hands! With this API, input some cards, and get a numeric value related to that hand's strength!
     </td>
   </tr>
 </table>
